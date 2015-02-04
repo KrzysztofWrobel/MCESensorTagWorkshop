@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MCEConf App</string>
+    <string name="title_activity_main">MCEConf App Samples</string>
+    <string name="dice_state">Dice state: </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="magnetometer_sample_name">Magnetometer</string>
+    <string name="accelerometer_sample_name">Accelerometer</string>
+    <string name="button_game_sample_name">Buttons Game</string>
+    <string name="gyroscope_sample_name">Gyroscope</string>
+    <string name="twitter_sample_name">Buttons Morse</string>
+    <string name="temperature_sample_name">Temperature</string>
+
+    <string name="magnetometer_sample_icon">{mce-wand}</string>
+    <string name="accelerometer_sample_icon">{mce-dice}</string>
+    <string name="button_game_sample_icon">{mce-guy}</string>
+    <string name="gyroscope_sample_icon">{mce-wheel}</string>
+    <string name="twitter_sample_icon">{mce-morse}</string>
+    <string name="barometer_sample_icon">{mce-throne}</string>
+    <string name="hygrometer_sample_icon">{mce-cloud}</string>
+    <string name="temperature_sample_icon">{mce-paw}</string>
+    <string name="safe_lock_sample_icon">{mce-safe}</string>
+
+    <string name="title_activity_gyroscope">GyroscopeActivity</string>
+    <string name="title_activity_gesture2_d">Gesture2DActivity</string>
+
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="send_tweet">Send a tweet</string>
+    <string name="title_activity_barometer">BarometerActivity</string>
+    <string name="barometer_sample_name">Pressure</string>
+    <string name="hygrometer_sample_name">Hygrometer</string>
+    <string name="title_activity_hygrometer">Hygrometer Demo</string>
+    <string name="safe_lock_sample_name">Safe lock</string>
+
+    <string name="action_scan">Scan And Choose Devices</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="turn_on">Turn on</string>
+    <string name="empty_scan_list">No devices found</string>
+    <string name="unknown_device">Unknown device</string>
+
+    <string name="menu_demo">Demo</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="title_scan">ScanActivity</string>
+    <string name="refresh">Refresh</string>
+    <string name="first_device">First</string>
+    <string name="second_device">Second</string>
+    <string name="use_chosen_device_as">Use chosen device as:</string>
+</resources>

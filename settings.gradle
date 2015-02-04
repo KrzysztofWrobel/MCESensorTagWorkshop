@@ -1,0 +1,3 @@
+include ':MceAppSamples'
+include ':SensorTagLibrary'
+
